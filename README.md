@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="720" alt="Sorteat — handling all the thinking, so you can focus on the eating">
+  <img src="./assets/cover.png" width="720" alt="Sorteat — handling all the thinking, so you can focus on the eating">
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
 
 A mobile-first app that turns a shared kitchen into a virtual smart kitchen: one that remembers what's in the fridge, what's about to expire, and who owes whom for the groceries.
 
-> Best viewed on a phone, or in a desktop browser with device emulation set to portrait. The prototype is designed for a 390x844 viewport.
 
 ---
 
@@ -120,25 +119,3 @@ A high-fidelity interactive prototype built for usability evaluation, not a prod
 - Balance figures are illustrative, not computed from real transactions
 
 ---
-
-## Tech Stack
-
-<!-- TODO: replace with the real stack -->
-React, TypeScript, Tailwind CSS, Vite. Deployed on Vercel.
-
-## Running It Locally
-
-```bash
-git clone <repo-url>
-cd sorteat
-npm install
-npm run dev
-```
-
----
-
-## Team
-
-<!-- TODO: add names and links -->
-Built by [Sofia Grumelli](https://github.com/) · [Name] · [Name] · [Name]
-Politecnico di Milano — Human-Computer Interaction & Design
