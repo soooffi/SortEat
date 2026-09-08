@@ -2,9 +2,6 @@
 
 # Sorteat — HCI Project @Polimi
 
-
-**[Try the live prototype →](https://sorteat-high-fidelity.vercel.app/)**
-
 Human-Computer Interaction project at Politecnico di Milano, HINT Lab A.Y. 2025/2026
 **Final grade: 30/30**
 
@@ -12,6 +9,7 @@ Human-Computer Interaction project at Politecnico di Milano, HINT Lab A.Y. 2025/
 
 A mobile-first app that turns a shared kitchen into a virtual smart kitchen: one that remembers what's in the fridge, what's about to expire, and who owes whom for the groceries.
 
+**[Try the live prototype →](https://sorteat-high-fidelity.vercel.app/)**
 
 ---
 
