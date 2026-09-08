@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="./assets/cover.png" width="720" alt="Sorteat — handling all the thinking, so you can focus on the eating">
-</p>
+# Sorteat — HCI Project @Polimi
 
-<p align="center">
-  <b><a href="https://sorteat-high-fidelity.vercel.app/">Try the live prototype →</a></b>
-</p>
+![Sorteat](.cover.png)
 
-<p align="center">
-  Human-Computer Interaction &amp; Design project at Politecnico di Milano, A.Y. 2025/2026 · Final grade <b>30/30</b>
-</p>
+**[Try the live prototype →](https://sorteat-high-fidelity.vercel.app/)**
+
+Human-Computer Interaction project at Politecnico di Milano, HINT Lab A.Y. 2025/2026
+**Final grade: 30/30**
 
 ---
 
@@ -118,4 +115,3 @@ A high-fidelity interactive prototype built for usability evaluation, not a prod
 - Search is simple string matching
 - Balance figures are illustrative, not computed from real transactions
 
----
