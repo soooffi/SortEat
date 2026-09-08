@@ -1,8 +1,8 @@
 ![Sorteat](cover.png)
 
-# Sorteat — HCI Project @Polimi, HINT Lab
+# Sorteat — HCI Project @Polimi & HINT Lab
 
-Human-Computer Interaction project at Politecnico di Milano, HINT Lab, A.Y. 2025/2026
+Human-Computer Interaction project at Politecnico di Milano & HINT Lab, A.Y. 2025/2026
 **Final grade: 30/30**
 
 ---
