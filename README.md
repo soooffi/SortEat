@@ -1,6 +1,7 @@
+![Sorteat](cover.png)
+
 # Sorteat — HCI Project @Polimi
 
-![Sorteat](cover.png)
 
 **[Try the live prototype →](https://sorteat-high-fidelity.vercel.app/)**
 
