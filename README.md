@@ -63,8 +63,7 @@ Paper and wireframe prototypes, evaluated before writing a single line of code. 
 <!-- TODO: correggi -->
 The working prototype, followed by usability testing with real participants on the three core tasks. Findings were fed back into a final round of changes.
 
-**[Read the usability testing report →](./docs)**
-<!-- TODO: sostituisci con il link GitHub Pages -->
+
 
 ---
 
