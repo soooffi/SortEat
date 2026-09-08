@@ -97,10 +97,4 @@ In **Inventory**, tap the green **+**. Receipt scan returns a review screen wher
 
 A high-fidelity prototype built for usability evaluation, not a production app. No backend (mock data in `localStorage`), no authentication (the current user is fixed as Mariia), simulated notifications and receipt OCR, illustrative balance figures.
 
----
 
-## Team
-
-<!-- TODO: nomi e link -->
-[Sofia Grumelli](https://github.com/soooffi) · [Name] · [Name] · [Name] · [Name]
-Politecnico di Milano — Human-Computer Interaction, in collaboration with HINT Lab
